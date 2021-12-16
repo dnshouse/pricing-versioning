@@ -1,4 +1,5 @@
 <?php
 return [
-    'base_price_multiplier' => 1.4
+    'base_price_multiplier' => 3,
+    'holiday_multiplier' => 5
 ];
